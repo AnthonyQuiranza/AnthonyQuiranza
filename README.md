@@ -10,7 +10,7 @@ Soy un desarrollador apasionado por la tecnología y la innovación. Trabajo en 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AnthonyQuiranza&show_icons=true&theme=radical)
+[![Lenguajes de programación más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyQuiranza&layout=compact)](https://github.com/AnthonyQuiranza/github-readme-stats)
 
 ## 🌱 Actualmente Aprendiendo
 - TypeScript
