@@ -1,16 +1,22 @@
-### Hi there 👋
+# ¡Hola! Soy Anthony Quiranza 👋
 
-<!--
-**AnthonyQuiranza/AnthonyQuiranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología y la innovación. Trabajo en la Universidad Politécnica Estatal del Carchi, donde desarrollo soluciones tecnológicas para mejorar la educación y la investigación.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AnthonyQuiranza&show_icons=true&theme=radical)
+
+## 🌱 Actualmente Aprendiendo
+- TypeScript
+- DevOps
+
+## 📫 Contáctame
+[LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/anthonyquiranza/)) | [Correo Electrónico](mailto:anthonyquiranza@hotmail.com)
+
+¡Gracias por visitar mi perfil!
