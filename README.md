@@ -22,7 +22,13 @@ Actualmente también trabajo en la **Universidad Politécnica Estatal del Carchi
 
 ---
 
-## 🔬 Áreas de Especialización
+## � Lenguajes más utilizados
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyQuiranza&layout=compact&theme=tokyonight)](https://github.com/AnthonyQuiranza)
+
+---
+
+## �🔬 Áreas de Especialización
 
 - **Desarrollo Full-Stack**: Aplicaciones web y de escritorio con tecnologías modernas
 - **Soluciones en la Nube**: Arquitectura y despliegue de servicios cloud
