@@ -17,10 +17,12 @@ Actualmente también trabajo en la **Universidad Politécnica Estatal del Carchi
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🔬 Áreas de Especialización
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AnthonyQuiranza&show_icons=true&theme=tokyonight)](https://github.com/AnthonyQuiranza/github-readme-stats)  
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyQuiranza&layout=compact&theme=tokyonight)](https://github.com/AnthonyQuiranza/github-readme-stats)
+- **Desarrollo Full-Stack**: Aplicaciones web y de escritorio con tecnologías modernas
+- **Soluciones en la Nube**: Arquitectura y despliegue de servicios cloud
+- **Transformación Digital**: Implementación de tecnología en entornos educativos y empresariales
+- **Gestión de Proyectos**: Liderazgo de equipos y desarrollo de software a medida
 
 ---
 
